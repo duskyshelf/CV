@@ -1,4 +1,4 @@
- ## David Upsdale
+## David Upsdale
 
 An up-and-coming software developer who loves gaming and all things tech. After working in digital marketing roles for the last few years, I realised my real passion was for creating rather than measuring. I'm looking for a role that challenges me and lets me get to grips with new technologies and concepts. Ideally I would be working as part of a dynamic team that prides itself on its ability to create quality software.
 
