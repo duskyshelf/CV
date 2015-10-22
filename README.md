@@ -1,7 +1,6 @@
 ## David Upsdale
 
-An up-and-coming software developer who loves gaming and all things tech. After working in digital marketing roles for the last few years, I realised my real passion was for creating rather than measuring. I'm looking for a role that challenges me and lets me get to grips with new technologies and concepts. Ideally I would be working as part of a dynamic team that prides itself on its ability to create quality software.
-
+An up-and-coming software developer who loves gaming and all things tech. After working in digital marketing roles for the last few years, I realised I wanted to be part of the creative side of the tech industry and not just a user. I'm looking for a role that challenges me and lets me get to grips with new technologies and concepts. Preferably as part of a dynamic team in a strong learning environment so I can continue to improve.
 
 #### Problem Solving
 
@@ -13,7 +12,7 @@ Building and connecting a large project: https://github.com/duskyshelf/ispy-game
 
 #### Agile Working
 
-I have worked in small development teams in previous job roles, using Kanban and running regular stand ups. This experience has helped in understanding different sides of the development process and has given me an appreciation for the Agile philosophy in action. Being able to implement quick changes meant that we could still focus on testing and optimisation despite working with limited resources.
+During my time at Factory Media I worked in a small development team, using Kanban and running regular stand ups. This experience has helped in understanding different sides of the development process and has given me an appreciation for the Agile philosophy in action. Being able to implement quick changes meant that we could still focus on testing and optimisation despite working with limited resources.
 
 #### New Tech
 
@@ -31,7 +30,7 @@ I worked across numerous fields during my digital marketing career. I have worke
 Some of the skills I developed include:
 - Carrying out proof of concepts for companies whilst working in a lean environment.
  - Successully kick started a scrap car company proving they would be profitable whilst also highlighting where they lacked national coverage.
- - Generated millions of views for a charity at zero cost by maximising grant accounts and other resources.
+ - Generated millions of views for a charity at zero marketing cost by maximising grant accounts and other resources.
 
 - Analytics measuring the performance of in-house campaigns, external agencies, product lines, content creation and new marketing platforms.
  - Highlighted wasted resources and turned unprofitable campaigns around by focusing on unnecessary spend whilst maintaining revenue.
