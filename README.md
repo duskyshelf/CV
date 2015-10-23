@@ -7,8 +7,8 @@ An up-and-coming software developer who loves gaming and all things tech. After 
 Coming from a mathematical background, I enjoy finding logical and simple solutions to problems. During my time at Makers Academy I found these skills extended from a general affinity for clean, functional business logic to being able to piece together larger team projects as they grew more complex and discordant. During team projects for Makers Academy I found myself at the center of operations, using my understanding of the architecture to pull together the different branches of code at critical points.
 
 For both ends of the spectrum I want to highlight 2 repos I am particularly proud of:  
-Clean simple code: https://github.com/duskyshelf/bowling-challenge - Pure Javascript ten-pin bowling business logic.    
-Building and connecting a large project: https://github.com/duskyshelf/ispy-game - Final project at Makers Academy. Built using Ionic.  
+Clean simple code: [Ten Pin Bowling](https://github.com/duskyshelf/bowling-challenge) - Pure Javascript ten-pin bowling business logic.    
+Building and connecting a large project: [iSpy Game](https://github.com/duskyshelf/ispy-game) - Final project at Makers Academy. Built using Ionic.  
 
 #### Agile Working
 
