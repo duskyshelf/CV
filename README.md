@@ -41,7 +41,7 @@ Some of the skills I developed include:
 #### Makers Academy (June 2015 - Sept 2015)
 
 - Full stack, but with a preference for low-level/system logic
-- Ruby, Rails, Javascript, Angular.js, Ionic, Sinatra, Node
+- Ruby, Rails, Javascript, Angular.js, Ionic, Sinatra, Node. MongoDB, Firebase, React
 - Rspec, Capybara, Jasmine, Karma & Protractor
 - Trained in Pairing, TDD, BDD, OOP
 
