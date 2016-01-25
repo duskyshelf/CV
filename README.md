@@ -1,6 +1,9 @@
 ## David Upsdale
 
-An up-and-coming software developer who loves gaming and all things tech. After working in digital marketing roles for the last few years, I realised I wanted to be part of the creative side of the tech industry and not just a user. I'm looking for a role that challenges me and lets me get to grips with new technologies and concepts. Preferably as part of a dynamic team in a strong learning environment so I can continue to improve.
+Email: dupsdale@gmail.com  
+Github: github.com/duskyshelf
+
+An up-and-coming software developer who loves gaming and all things tech. After working in digital marketing roles for the last few years, I realised I wanted to be part of the creative side of the tech industry and not just a user. I'm looking for a role that challenges me and lets me get to grips with new technologies and concepts as well as kickstarting my career.
 
 #### Problem Solving
 
