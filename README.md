@@ -7,7 +7,7 @@ A fullstack JS developer looking to improve and gain new experiences.
 
 #### Development Skills
 
-- React, Redux, Node, ES6, Typescript, Redis, Bull, AWS/S3, GraphQL, Docker, Apollo, Razor, MySQL
+- React, Redux, Node, ES6, Typescript, SASS, CSS, Redis, Bull, AWS/S3, Webpack, GraphQL, Docker, Apollo, Razor, MySQL
 - Testing - Mocha, Chai, Jest, Enzyme, Sinon, Nock, Puppeteer, WebdriverIO, Browserstack
 
 ## Experience
