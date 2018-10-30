@@ -3,47 +3,33 @@
 Email: dupsdale@gmail.com  
 GitHub: [github.com/duskyshelf](https://github.com/duskyshelf)
 
-An up-and-coming software developer who loves gaming and all things tech. After working in digital marketing roles for the last few years, I realised I wanted to be part of the creative side of the tech industry and not just a user. I'm looking for a role that challenges me and lets me get to grips with new technologies and concepts as well as kickstarting my career.
+A fullstack JS developer looking to improve and gain new experiences.
 
-#### Problem Solving
+#### Development Skills
 
-Coming from a mathematical background, I enjoy finding logical and simple solutions to problems. During my time at Makers Academy I found these skills extended from a general affinity for clean, functional business logic to being able to piece together larger team projects as they grew more complex and discordant. During team projects for Makers Academy I found myself at the center of operations, using my understanding of the architecture to pull together the different branches of code at critical points.
+- React, Redux, Node, ES6, Typescript, SASS, CSS, Redis, Bull, AWS/S3, Webpack, GraphQL, Docker, Apollo, Razor, MySQL
+- Testing - Mocha, Chai, Jest, Enzyme, Sinon, Nock, Puppeteer, WebdriverIO, Browserstack
 
-For both ends of the spectrum I want to highlight 2 repos I am particularly proud of:  
-Clean simple code: [Ten Pin Bowling](https://github.com/duskyshelf/bowling-challenge) - Pure Javascript ten-pin bowling business logic.    
-Building and connecting a large project: [iSpy Game](https://github.com/duskyshelf/ispy-game) - Final project at Makers Academy. Built using Ionic.  
+## Experience
 
-#### Agile Working
+#### Trainline (June 2016 - Present)
 
-During my time at Factory Media I worked in a small development team, using Kanban and running regular stand ups. This experience has helped in understanding different sides of the development process and has given me an appreciation for the Agile philosophy in action. Being able to implement quick changes meant that we could still focus on testing and optimisation despite working with limited resources.
+Trainline has been my first role since graduating Makers Academy, going from a front end focused junior to a fullstack software engineer within my team (Vulcan). Working primarily with the marketing teams, we handled the creation and management of large scale content pages covering different purposes and data sources.
 
-#### New Tech
-
-Working in an evolving digital marketing space, I've had to become a fast learner when it comes to new technologies.
-
-New technology was being released every other month and I had to understand them extremely quickly. Being an early adopter and quickly becoming proficient made it possible to keep a competitive edge. This shone when it came to working with new platforms, as they were extremely profitable before the market had time to fully develop and rewarded those that were quick to pick up on the nuances of their systems.
-
-- A sample of the numerous different marketing technologies I've worked with include: Google Ads, Google Analytics,
- Bing Ads, Facebook Ads, MediaMath, Turn, Unica, Marin, DoubleClick, Kenshoo...  
+- Architecture - My domain knowledge within the team has meant I have been able both influence and architect a number of our applications. My most recent application being a Node/Bull job manager built to handle the complex scheduled data fetching we rely on for our static SEO pages.
+- Frontend - The main challenge within Vulcan has been how to develop and maintain static and dynamic content pages across multiple applications at scale. As a developer, this involved working in a React heavy environment applying important concepts like performance, accessibility and markup.
+- Backend - With the prominence of JS developers in Vulcan, we have been able to include more node services to support our front end applications. I have been working across multiple apps from simple APIs to data services, working with both internal and external teams to deliver important features.
+- Agile - Vulcan has had a strong focus on agile processes, involving stand-ups, retros and developer involvement in design processes. This has evolved heavily as the team has shrunk and grown and I am keen to experience new ways to solve common development problems.
 
 #### Broader Skills
 
-I worked across numerous fields during my digital marketing career. I have worked with many companies in both internal and external roles and have a wide range of experience to draw on.
-
-Some of the skills I developed include:
-- Carrying out proof of concepts for companies whilst working in a lean environment.
- - Successully kick started a scrap car company proving they would be profitable whilst also highlighting where they lacked national coverage.
- - Generated millions of views for a charity at zero marketing cost by maximising grant accounts and other resources.
-
-- Analytics measuring the performance of in-house campaigns, external agencies, product lines, content creation and new marketing platforms.
- - Highlighted wasted resources and turned unprofitable campaigns around by focusing on unnecessary spend whilst maintaining revenue.
- - Implemented testing to website changes improving how developer resources were spent.
+My marketing experience has been useful with regards to SEO discussions as it has remained relevent and practical when considering solutions to the problems we faced.
 
 ## Education
 
 #### Makers Academy (June 2015 - Sept 2015)
 
-- Full stack, but with a preference for low-level/system logic
+- Full stack
 - Ruby, Rails, Javascript, Angular.js, Ionic, Sinatra, Node. MongoDB, Firebase, React
 - Rspec, Capybara, Jasmine, Karma & Protractor
 - Trained in Pairing, TDD, BDD, OOP
@@ -53,11 +39,11 @@ Some of the skills I developed include:
 - Mathematics (MMath)
 - Pure mathematician at heart
 
-## Experience
+## Other Work History
 
-**Bathrooms.com** (January 2014 to May 2015)  
-*Paid Performance Executive*  
+**Bathrooms** (January 2014 to May 2015)  
+_Paid Performance Executive_  
 **Factory** (Aug 2012 to Aug 2013)  
-*Search Analyst*  
+_Search Analyst_  
 **Blowfish Digital** (Nov 2010 to July 2012)  
-*Operations Executive*  
+_Operations Executive_
