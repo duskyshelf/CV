@@ -24,7 +24,7 @@ Originally joining as part of a frontend optimisation team, I grew to become inv
 
 Trainline was my first role after graduating Makers Academy, going from a front end focused junior to a fullstack software engineer within my team (Vulcan). Working primarily with the marketing teams, we handled the creation and management of large scale content pages covering different purposes and data sources.
 
-### Broader Skills
+#### Broader Skills
 
 My marketing experience has been useful with regards to SEO discussions as it has remained relevent and practical when considering solutions to the problems we faced.
 
