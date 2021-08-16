@@ -3,25 +3,28 @@
 Email: dupsdale@gmail.com  
 GitHub: [github.com/duskyshelf](https://github.com/duskyshelf)
 
-A fullstack JS developer looking to improve and gain new experiences.
+Fullstack JS developer 
 
 #### Development Skills
 
-- React, Redux, Node, ES6, Typescript, SASS, CSS, Redis, Bull, AWS/S3, Webpack, GraphQL, Docker, Apollo, Razor, MySQL
-- Testing - Mocha, Chai, Jest, Enzyme, Sinon, Nock, Puppeteer, WebdriverIO, Browserstack
+- Typescript, React, Redux, Node, Serverless, AWS/Lambda/ApiGateway/S3, Webpack, GraphQL, Docker, Apollo, CSS, DocumentDB, Contentstack
+- Testing - Jest, Enzyme, Cypress, Puppeteer, WebdriverIO, Browserstack, Mocha, Chai, Sinon, Nock, 
 
 ## Experience
 
-#### Trainline (June 2016 - Present)
+### Photobox (Feb 2019 - Present)
 
-Trainline has been my first role since graduating Makers Academy, going from a front end focused junior to a fullstack software engineer within my team (Vulcan). Working primarily with the marketing teams, we handled the creation and management of large scale content pages covering different purposes and data sources.
+Originally joining as part of a frontend optimisation team, I grew to become involved in various core projects architecting and creating full stack applications for the business.
 
-- Architecture - My domain knowledge within the team has meant I have been able both influence and architect a number of our applications. My most recent application being a Node/Bull job manager built to handle the complex scheduled data fetching we rely on for our static SEO pages.
-- Frontend - The main challenge within Vulcan has been how to develop and maintain static and dynamic content pages across multiple applications at scale. As a developer, this involved working in a React heavy environment applying important concepts like performance, accessibility and markup.
-- Backend - With the prominence of JS developers in Vulcan, we have been able to include more node services to support our front end applications. I have been working across multiple apps from simple APIs to data services, working with both internal and external teams to deliver important features.
-- Agile - Vulcan has had a strong focus on agile processes, involving stand-ups, retros and developer involvement in design processes. This has evolved heavily as the team has shrunk and grown and I am keen to experience new ways to solve common development problems.
+- Architecture - I was tasked to create numerous services for photobox. Both as backend data APIs and fullstack internal applications to aid in their management. Most applications used a combination of Serverless and Typescript as well as Node/Cloudformation where appropriate. I designed with a high code quality mindset as they were applications which many teams and developers would need to continue to work on as part of the long term plans for the company.
+- Frontend - All frontend applications at Photobox relied on React and GraphQL at their cores. Working with both Redux and Apollo clients to help manage data on the front-end. I also introduced Typescript to new applications as part of a company-wide move towards the language.
+- Backend - The majority of backend services I worked on were developed to help handle the large product data sets in the company. Technology stacks were a mix of Node/Lambda/GraphQL/REST depending on the use cases.
 
-#### Broader Skills
+### Trainline (June 2016 - Jan 2019)
+
+Trainline was my first role after graduating Makers Academy, going from a front end focused junior to a fullstack software engineer within my team (Vulcan). Working primarily with the marketing teams, we handled the creation and management of large scale content pages covering different purposes and data sources.
+
+### Broader Skills
 
 My marketing experience has been useful with regards to SEO discussions as it has remained relevent and practical when considering solutions to the problems we faced.
 
@@ -37,7 +40,6 @@ My marketing experience has been useful with regards to SEO discussions as it ha
 #### UMIST (2004 to 2008)
 
 - Mathematics (MMath)
-- Pure mathematician at heart
 
 ## Other Work History
 
