@@ -3,7 +3,7 @@
 Email: dupsdale@gmail.com  
 GitHub: [github.com/duskyshelf](https://github.com/duskyshelf)
 
-Fullstack JS developer 
+Senior Fullstack Developer
 
 #### Development Skills
 
@@ -12,7 +12,7 @@ Fullstack JS developer
 
 ## Experience
 
-### Photobox (Feb 2019 - Present)
+### Photobox (Feb 2019 - Dec 2022)
 
 Originally joining as part of a frontend optimisation team, I grew to become involved in various core projects architecting and creating full stack applications for the business.
 
