@@ -26,7 +26,7 @@ Trainline was my first role after graduating Makers Academy, going from a front 
 
 #### Broader Skills
 
-My marketing experience has been useful with regards to SEO discussions as it has remained relevent and practical when considering solutions to the problems we faced.
+My digital marketing experience has been useful with regards to SEO discussions as it has remained relevent and practical when considering solutions to the problems we faced.
 
 ## Education
 
