@@ -16,7 +16,7 @@ Senior Fullstack Developer
 
 Originally joining as part of a frontend optimisation team, I grew to become involved in various core projects architecting and creating full stack applications for the business.
 
-- Architecture - I was tasked to create numerous services for photobox. Both as backend data APIs and fullstack internal applications to aid in their management. Most applications used a combination of Serverless and Typescript as well as Node/Cloudformation where appropriate. I designed with a high code quality mindset as they were applications which many teams and developers would need to continue to work on as part of the long term plans for the company.
+- Architecture - I was tasked to create numerous services for photobox. With both backend data APIs and fullstack internal applications to aid in their management. Most applications used a combination of Serverless and Typescript as well as Node/Cloudformation where appropriate. I designed with a high code quality mindset as they were applications which many teams and developers would need to continue to work on as part of the long term plans for the company.
 - Frontend - All frontend applications at Photobox relied on React and GraphQL at their cores. Working with both Redux and Apollo clients to help manage data on the front-end. I also introduced Typescript to new applications as part of a company-wide move towards the language.
 - Backend - The majority of backend services I worked on were developed to help handle the large product data sets in the company. Technology stacks were a mix of Node/Lambda/GraphQL/REST depending on the use cases.
 
