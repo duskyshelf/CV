@@ -8,7 +8,7 @@ Senior Fullstack Developer
 #### Development Skills
 
 - Typescript, React, Redux, Node, Serverless, AWS/Lambda/ApiGateway/S3, Webpack, GraphQL, Docker, Apollo, CSS, DocumentDB, Contentstack
-- Testing - Jest, Enzyme, Cypress, Puppeteer, WebdriverIO, Browserstack, Mocha, Chai, Sinon, Nock, 
+- Testing - Jest, Enzyme, Cypress, React Testing Library, Puppeteer, WebdriverIO, Browserstack, Mocha, Chai, Sinon, Nock
 
 ## Experience
 
